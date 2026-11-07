@@ -34,3 +34,6 @@ AGROVISION/
 ├── requirements.txt        # Dependencias del proyecto para producción
 ├── .gitignore              # Archivos y carpetas excluidos del control de versiones
 └── README.md               # Documentación del proyecto
+
+TEST YOUR OWN IMAGE!
+Public APP Link: https://agrovision-lxbmp9ttnbpwcsgz5ztskp.streamlit.app/
