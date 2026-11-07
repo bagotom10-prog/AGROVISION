@@ -1,0 +1,10 @@
+# Dataset de PlantVillage / imágenes
+PlantVillage/
+dataset/
+*.zip
+
+# Entornos y temporales de Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
